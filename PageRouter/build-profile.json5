@@ -1,6 +1,20 @@
 {
   "app": {
-    "signingConfigs": [],
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\Administrator\\.ohos\\config\\auto_debug_PageRouter_com.example.pagerouter_29032771.cer",
+          "storePassword": "0000001BAB6D7EFD0582D92598F4D2B4C51D446DE5DC6C820E2594C853F056180648F70793F00968A973CC",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001BBED0BC329951D3379D7E2D2592DDF44B8A63C61887CB2FF15FD50B03719BE40FB2F0395C5A15E1",
+          "profile": "C:\\Users\\Administrator\\.ohos\\config\\auto_debug_PageRouter_com.example.pagerouter_29032771.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\Administrator\\.ohos\\config\\auto_debug_PageRouter_com.example.pagerouter_29032771.p12"
+        }
+      }
+    ],
     "compileSdkVersion": 9,
     "compatibleSdkVersion": 9,
     "products": [

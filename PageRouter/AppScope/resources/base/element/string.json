@@ -3,6 +3,10 @@
     {
       "name": "app_name",
       "value": "PageRouter"
+    },
+    {
+      "name": "title_second_page",
+      "value": "Second Page"
     }
   ]
 }
